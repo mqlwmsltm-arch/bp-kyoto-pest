@@ -2,39 +2,44 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://mqlwmsltm-arch.github.io/bp-kyoto-pest/</loc>
-    <lastmod>2026-05-24</lastmod>
+    <lastmod>2026-06-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
-  
   <url>
-    <loc>https://mqlwmsltm-arch.github.io/bp-kyoto-pest/posts/normal-1.html</loc>
-    <lastmod>2026-05-24</lastmod>
+    <loc>https://mqlwmsltm-arch.github.io/bp-kyoto-pest/posts/guide-003.html</loc>
+    <lastmod>2026-06-01</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://mqlwmsltm-arch.github.io/bp-kyoto-pest/posts/normal-2.html</loc>
-    <lastmod>2026-05-24</lastmod>
+    <loc>https://mqlwmsltm-arch.github.io/bp-kyoto-pest/posts/interview-001-13rhk3x.html</loc>
+    <lastmod>2026-06-10</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://mqlwmsltm-arch.github.io/bp-kyoto-pest/posts/normal-3.html</loc>
-    <lastmod>2026-05-24</lastmod>
+    <loc>https://mqlwmsltm-arch.github.io/bp-kyoto-pest/posts/review-001.html</loc>
+    <lastmod>2026-06-05</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://mqlwmsltm-arch.github.io/bp-kyoto-pest/posts/juice-1.html</loc>
-    <lastmod>2026-05-24</lastmod>
+    <loc>https://mqlwmsltm-arch.github.io/bp-kyoto-pest/posts/review-002.html</loc>
+    <lastmod>2026-06-05</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://mqlwmsltm-arch.github.io/bp-kyoto-pest/posts/juice-2.html</loc>
-    <lastmod>2026-05-24</lastmod>
+    <loc>https://mqlwmsltm-arch.github.io/bp-kyoto-pest/posts/t3link-002-13rhk3x.html</loc>
+    <lastmod>2026-06-10</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://mqlwmsltm-arch.github.io/bp-kyoto-pest/feed.xml</loc>
+    <lastmod>2026-06-10</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url>
 </urlset>
